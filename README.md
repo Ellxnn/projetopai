@@ -28,7 +28,7 @@ Figma:
 
    senha: 1234
 
-Link para o CHAMP: [Projeto PAI]([(https://aranha1975.github.io/)])
+Link para o CHAMP: [Projeto PAI](https://aranha1975.github.io/)
 
 ## Equipe:
 Nino Xavier Simas 
