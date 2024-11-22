@@ -27,16 +27,12 @@ Figma:
 Link para o CHAMP: [Projeto PAI]([url](https://aranha1975.github.io/))
 
 ## Equipe:
-Nino Xavier Simas
+Nino Xavier Simas 
+
 Camilly Silva Venancio
+
 Ellen Nóbrega
+
 Marcio Aranha
+
 Lucas Fabricio
-
-
-INSTRUÇÕES:
-
-1. Para visualizar o site, basta abrir o arquivo INDEX.HTML.
-2. PARA FAZER LOGIN digitar utilizar:
-   usuário: admin@admain.com
-   senha: 1234
