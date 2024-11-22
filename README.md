@@ -21,9 +21,13 @@ Figma:
 
 ## Instalação
 1. Para visualizar o site, basta abrir o arquivo INDEX.HTML.
+
 2. PARA FAZER LOGIN digitar utilizar:
+
    usuário: admin@admain.com
+
    senha: 1234
+
 Link para o CHAMP: [Projeto PAI]([url](https://aranha1975.github.io/))
 
 ## Equipe:
