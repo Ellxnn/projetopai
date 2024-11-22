@@ -24,11 +24,28 @@ Figma:
 
 2. PARA FAZER LOGIN digitar utilizar:
 
-   usuário: admin@admain.com
+   usuário: admin@admin.com
 
    senha: 1234
 
-Link para o CHAMP: [Projeto PAI](https://aranha1975.github.io/)
+Link para o site: [Projeto PAI](https://aranha1975.github.io/)
+
+
+## Problemas
+1. Atraso no processo de atendimento: devido ao registro ser manual em papel, resultava em um atendimento mais demorado.
+2. Risco de perda ou danos aos registros: Por conta do armazenamento ser físico, deixa todos os registros vuneráveis a possíveis perdas e/ou danos.
+3. Dificuldade de acesso às informações: Cada atendimento gera um novo registro, então no caso de retorno de pacientes, a visualização do histórico de atendimento anteriores do paciente é dificultado.
+
+## Funcionalidades
+1. Registro de ocorrências;
+2. Consulta ao histórico do paciente;
+3. Visualização e cadastro da escala dos plantonistas;
+4. Quadro de avisos (inserido pelo coordenador para registrar avisos aos alunos);
+
+
+
+
+
 
 ## Equipe:
 Nino Xavier Simas 
